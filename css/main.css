@@ -333,7 +333,7 @@ main {
 }
 
 #mainImg {
-  background-image: url("/images/header_team_hd.jpg");
+  background-image: url("../images/header_team_hd.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -509,15 +509,15 @@ main {
 }
 
 #collegaImg1 {
-  background-image: url("/images/david_google_glass.jpg");
+  background-image: url("../images/david_google_glass.jpg");
 }
 
 #collegaImg2 {
-  background-image: url("/images/DSC_1480.jpg");
+  background-image: url("../images/DSC_1480.jpg");
 }
 
 #collegaImg3 {
-  background-image: url("/images/307913_267397096627874_427188176_n.jpg");
+  background-image: url("../images/307913_267397096627874_427188176_n.jpg");
 }
 
 .collegaName {
@@ -596,17 +596,17 @@ main {
 }
 
 #carouselItem1 {
-  background-image: url("/images/bank_low.jpg");
+  background-image: url("../images/bank_low.jpg");
   background-size: cover;
 }
 
 #carouselItem2 {
-  background-image: url("/images/telecom_low.jpg");
+  background-image: url("../images/telecom_low.jpg");
   background-size: cover;
 }
 
 #carouselItem3 {
-  background-image: url("/images/bio_low.jpg");
+  background-image: url("../images/bio_low.jpg");
   background-size: cover;
 }
 
@@ -807,7 +807,7 @@ main {
 }
 
 #storyBertBG {
-  background: url("/images/bank_low.jpg") 100% 100%;
+  background: url("/../images/bank_low.jpg") 100% 100%;
   background-size: cover;
   background-repeat: no-repeat;
   min-height: calc( 100vh - 8.89em);
@@ -820,7 +820,7 @@ main {
 }
 
 #storyKoenBG {
-  background: url("/images/telecom_low.jpg") 100% 100%;
+  background: url("/../images/telecom_low.jpg") 100% 100%;
   background-size: cover;
   background-repeat: no-repeat;
   min-height: calc( 100vh - 8.89em);
@@ -833,7 +833,7 @@ main {
 }
 
 #storyJeroenBG {
-  background: url("/images/bio_low.jpg") 100% 100%;
+  background: url("/../images/bio_low.jpg") 100% 100%;
   background-size: cover;
   background-repeat: no-repeat;
   min-height: calc( 100vh - 8.89em);
@@ -846,7 +846,7 @@ main {
 }
 
 #storyAcaddemictsBG {
-  background: url("/images/background_blur.jpg") no-repeat;
+  background: url("/../images/background_blur.jpg") no-repeat;
   background-size: cover;
 }
 
@@ -1052,7 +1052,7 @@ main {
   margin: 0 auto;
 }
 
-#funImages {
+#fun../images {
   min-height: 28.125em;
   text-align: center;
   max-width: 78.33333em;
@@ -1187,7 +1187,7 @@ main {
 }
 
 #jobBG {
-  background: url("/images/Home 1_0_0.jpg") 100% 100%;
+  background: url("../images/Home_1_0_0.jpg") 100% 100%;
   background-size: cover;
   border-bottom: 0.1875em solid #259040;
 }
